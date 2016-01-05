@@ -1,0 +1,109 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage[subrefformat=parens,labelformat=parens]{subfig}
+\usepackage[margin=1.25in]{geometry}
+\usepackage{setspace}
+
+
+\usepackage{pdflscape}
+\usepackage{multirow}
+\usepackage{booktabs,tabularx}
+\usepackage{subfig}
+ 
+
+ 
+% Packages for figures and tables
+%\usepackage[dvips]{graphicx}
+\usepackage[dvipdfm]{graphicx}
+  \graphicspath{{./images/}}
+  \usepackage[tableposition=top]{caption}
+ % \usepackage{subcaption}
+\usepackage{alltt}
+\usepackage{tabularx}
+
+\usepackage{url}
+
+
+\usepackage[subsection]{algorithm}
+\usepackage{algpseudocode}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+\newcommand\Algphase[1]{%
+\vspace*{-.7\baselineskip}\Statex\hspace*{\dimexpr-\algorithmicindent-2pt\relax}\rule{\textwidth}{0.4pt}%
+\Statex\hspace*{-\algorithmicindent}\textbf{#1}%
+\vspace*{-.7\baselineskip}\Statex\hspace*{\dimexpr-\algorithmicindent-2pt\relax}\rule{\textwidth}{0.4pt}%
+}
+
+
+\usepackage{amsmath}
+\usepackage{amsfonts} 
+\numberwithin{equation}{section}
+
+\usepackage{bold-extra}
+
+
+%Theorm and Definitions
+\usepackage{amsthm}
+\newtheorem{definition}{Definition}[subsection]
+\newtheorem{example}{Example}[subsection]
+
+
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{bm}
+\usepackage{amssymb}
+
+\usepackage{hyperref}
+\usepackage{pbox}
+\usepackage{afterpage}
+\usepackage{lipsum} 
+
+
+
+
+\def\equationautorefname~#1\null{(#1)\null}
+
+
+%Math style
+\DeclareMathAlphabet{\mathbfit}{OML}{cmm}{b}{it}
+
+\begin{document}
+\baselineskip=15pt
+\parskip=0pt
+\onehalfspacing
+
+% cover
+\input{titlepg_en}
+\afterpage{\null\newpage}
+
+ \cleardoublepage
+ 	\input{abstract}
+ 	\input{acknowledgements}
+  	\pagenumbering{roman}
+	\setcounter{page}{1}
+	\tableofcontents
+
+	\cleardoublepage \label{listoffig}
+	\addcontentsline{toc}{chapter}{List of Figures}
+	\listoffigures
+	
+	\cleardoublepage \label{listoftab}
+	\addcontentsline{toc}{chapter}{List of Tables}	
+	\listoftables
+
+	\baselineskip=20pt
+
+
+%\mainmatter
+\cleardoublepage
+  \pagenumbering{arabic}  
+	\include{chapter1}	
+    \include{chapter2}
+
+\appendix
+    \include{appendix1}
+   
+%\backmatter
+	\bibliographystyle{plain}
+	\bibliography{reference}
+
+\end{document}

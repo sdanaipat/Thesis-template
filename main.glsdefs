@@ -1,0 +1,630 @@
+\ifglsentryexists{circle of fifths}{}%
+{%
+\gls@defglossaryentry{circle of fifths}%
+{%
+name={circle of fifths},%
+sort={circle of fifths},%
+type={main},%
+first={circle of fifths},%
+firstplural={circle of fifthss},%
+text={circle of fifths},%
+plural={circle of fifthss},%
+description={is a visual representation of the relationships among the 12 tones of the chromatic scale, their corresponding key signatures, and the associated major and minor keys; it geometrically represents the relationships among the 12 pitch classes of the chromatic scale in pitch class space},%
+descriptionplural={is a visual representation of the relationships among the 12 tones of the chromatic scale, their corresponding key signatures, and the associated major and minor keys; it geometrically represents the relationships among the 12 pitch classes of the chromatic scale in pitch class space},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chord sequence}{}%
+{%
+\gls@defglossaryentry{chord sequence}%
+{%
+name={chord sequence},%
+sort={chord sequence},%
+type={main},%
+first={chord sequence},%
+firstplural={chord sequences},%
+text={chord sequence},%
+plural={chord sequences},%
+description={is a series of musical chords that are played one after the other; it aims to establish (or contradict) a tonality founded on a key, root or tonic chord and that is based upon a succession of root relationships},%
+descriptionplural={is a series of musical chords that are played one after the other; it aims to establish (or contradict) a tonality founded on a key, root or tonic chord and that is based upon a succession of root relationships},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chord progression}{}%
+{%
+\gls@defglossaryentry{chord progression}%
+{%
+name={chord progression},%
+sort={chord progression},%
+type={main},%
+first={chord progression},%
+firstplural={chord progressions},%
+text={chord progression},%
+plural={chord progressions},%
+description={is another term for chord sequence or harmonic progression},%
+descriptionplural={is another term for chord sequence or harmonic progression},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chromatic}{}%
+{%
+\gls@defglossaryentry{chromatic}%
+{%
+name={chromatic},%
+sort={chromatic},%
+type={main},%
+first={chromatic},%
+firstplural={chromatics},%
+text={chromatic},%
+plural={chromatics},%
+description={refers to structures derived from the chromatic scale which consists of all semitones},%
+descriptionplural={refers to structures derived from the chromatic scale which consists of all semitones},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chromatic scale}{}%
+{%
+\gls@defglossaryentry{chromatic scale}%
+{%
+name={chromatic scale},%
+sort={chromatic scale},%
+type={main},%
+first={chromatic scale},%
+firstplural={chromatic scales},%
+text={chromatic scale},%
+plural={chromatic scales},%
+description={is a musical scale with twelve pitches, each a semitone above or below another},%
+descriptionplural={is a musical scale with twelve pitches, each a semitone above or below another},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{diatonic}{}%
+{%
+\gls@defglossaryentry{diatonic}%
+{%
+name={diatonic},%
+sort={diatonic},%
+type={main},%
+first={diatonic},%
+firstplural={diatonics},%
+text={diatonic},%
+plural={diatonics},%
+description={refers to musical elements derived from the modes and transpositions of the ``white note scale" C-D-E-F-G-A-B},%
+descriptionplural={refers to musical elements derived from the modes and transpositions of the ``white note scale" C-D-E-F-G-A-B},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{emotion}{}%
+{%
+\gls@defglossaryentry{emotion}%
+{%
+name={emotion},%
+sort={emotion},%
+type={main},%
+first={emotion},%
+firstplural={emotions},%
+text={emotion},%
+plural={emotions},%
+description={the generic term for subjective, conscious experience that is characterized by psycho-physiological expressions, biological reactions and mental states},%
+descriptionplural={the generic term for subjective, conscious experience that is characterized by psycho-physiological expressions, biological reactions and mental states},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ground truth}{}%
+{%
+\gls@defglossaryentry{ground truth}%
+{%
+name={ground truth},%
+sort={ground truth},%
+type={main},%
+first={ground truth},%
+firstplural={ground truths},%
+text={ground truth},%
+plural={ground truths},%
+description={is a term in machine learning that refers to the accuracy of the training set's classification for supervised learning techniques},%
+descriptionplural={is a term in machine learning that refers to the accuracy of the training set's classification for supervised learning techniques},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{motif}{}%
+{%
+\gls@defglossaryentry{motif}%
+{%
+name={motif},%
+sort={motif},%
+type={main},%
+first={motif},%
+firstplural={motifs},%
+text={motif},%
+plural={motifs},%
+description={is short term for time series motif},%
+descriptionplural={is short term for time series motif},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{octave}{}%
+{%
+\gls@defglossaryentry{octave}%
+{%
+name={octave},%
+sort={octave},%
+type={main},%
+first={octave},%
+firstplural={octaves},%
+text={octave},%
+plural={octaves},%
+description={is the interval between one musical pitch and another with half or double its frequency},%
+descriptionplural={is the interval between one musical pitch and another with half or double its frequency},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{physiology}{}%
+{%
+\gls@defglossaryentry{physiology}%
+{%
+name={physiology},%
+sort={physiology},%
+type={main},%
+first={physiology},%
+firstplural={physiologys},%
+text={physiology},%
+plural={physiologys},%
+description={is a branch of biology that deals with the functions and activities of life or of living matter and of the physical and chemical phenomena involved},%
+descriptionplural={is a branch of biology that deals with the functions and activities of life or of living matter and of the physical and chemical phenomena involved},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{perfect fifth}{}%
+{%
+\gls@defglossaryentry{perfect fifth}%
+{%
+name={perfect fifth},%
+sort={perfect fifth},%
+type={main},%
+first={perfect fifth},%
+firstplural={perfect fifths},%
+text={perfect fifth},%
+plural={perfect fifths},%
+description={is a musical interval encompassing five staff positions or seven semitones; for example, the interval from C to G is a perfect fifth},%
+descriptionplural={is a musical interval encompassing five staff positions or seven semitones; for example, the interval from C to G is a perfect fifth},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pitch}{}%
+{%
+\gls@defglossaryentry{pitch}%
+{%
+name={pitch},%
+sort={pitch},%
+type={main},%
+first={pitch},%
+firstplural={pitchs},%
+text={pitch},%
+plural={pitchs},%
+description={is a perceptual property in music that allows the ordering of sounds on a frequency-related scale},%
+descriptionplural={is a perceptual property in music that allows the ordering of sounds on a frequency-related scale},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pitch class}{}%
+{%
+\gls@defglossaryentry{pitch class}%
+{%
+name={pitch class},%
+sort={pitch class},%
+type={main},%
+first={pitch class},%
+firstplural={pitch classs},%
+text={pitch class},%
+plural={pitch classs},%
+description={is a set of all pitches that are a whole number of octaves apart, e.g., the pitch class C consists of the Cs in all octaves},%
+descriptionplural={is a set of all pitches that are a whole number of octaves apart, e.g., the pitch class C consists of the Cs in all octaves},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rhythm}{}%
+{%
+\gls@defglossaryentry{rhythm}%
+{%
+name={rhythm},%
+sort={rhythm},%
+type={main},%
+first={rhythm},%
+firstplural={rhythms},%
+text={rhythm},%
+plural={rhythms},%
+description={is the movement in the music marked by the regulated succession of strong and weak melodic and harmonic beats},%
+descriptionplural={is the movement in the music marked by the regulated succession of strong and weak melodic and harmonic beats},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{supervised learning}{}%
+{%
+\gls@defglossaryentry{supervised learning}%
+{%
+name={supervised learning},%
+sort={supervised learning},%
+type={main},%
+first={supervised learning},%
+firstplural={supervised learnings},%
+text={supervised learning},%
+plural={supervised learnings},%
+description={is the machine learning task of inferring a function from labelled training data},%
+descriptionplural={is the machine learning task of inferring a function from labelled training data},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{time series}{}%
+{%
+\gls@defglossaryentry{time series}%
+{%
+name={time series},%
+sort={time series},%
+type={main},%
+first={time series},%
+firstplural={time seriess},%
+text={time series},%
+plural={time seriess},%
+description={is a sequence of data points, measured typically at successive time instants spaced at uniform time intervals},%
+descriptionplural={is a sequence of data points, measured typically at successive time instants spaced at uniform time intervals},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{time series motif}{}%
+{%
+\gls@defglossaryentry{time series motif}%
+{%
+name={time series motif},%
+sort={time series motif},%
+type={main},%
+first={time series motif},%
+firstplural={time series motifs},%
+text={time series motif},%
+plural={time series motifs},%
+description={is a pair of subsequences having the same length that are very similar to each other},%
+descriptionplural={is a pair of subsequences having the same length that are very similar to each other},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{triadic}{}%
+{%
+\gls@defglossaryentry{triadic}%
+{%
+name={triadic},%
+sort={triadic},%
+type={main},%
+first={triadic},%
+firstplural={triadics},%
+text={triadic},%
+plural={triadics},%
+description={is a chord of three tones, especially one built on a given root tone plus a major or minor third and a perfect fifth},%
+descriptionplural={is a chord of three tones, especially one built on a given root tone plus a major or minor third and a perfect fifth},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tonic}{}%
+{%
+\gls@defglossaryentry{tonic}%
+{%
+name={tonic},%
+sort={tonic},%
+type={main},%
+first={tonic},%
+firstplural={tonics},%
+text={tonic},%
+plural={tonics},%
+description={is the first note of a diatonic scale; also known as the keynote or harmonic center},%
+descriptionplural={is the first note of a diatonic scale; also known as the keynote or harmonic center},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{white noise}{}%
+{%
+\gls@defglossaryentry{white noise}%
+{%
+name={white noise},%
+sort={white noise},%
+type={main},%
+first={white noise},%
+firstplural={white noises},%
+text={white noise},%
+plural={white noises},%
+description={is a random signal with a flat power spectral density; the signal contains equal power within a fixed bandwidth at any center frequency},%
+descriptionplural={is a random signal with a flat power spectral density; the signal contains equal power within a fixed bandwidth at any center frequency},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
